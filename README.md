@@ -21,15 +21,3 @@ Esta implementación es completamente interactiva y se puede jugar directamente 
 5. El primer jugador que consiga alinear tres de sus símbolos (X u O) horizontal, vertical o diagonalmente gana.
 6. Si todas las casillas se llenan sin que haya un ganador, el juego termina en empate.
 
-## React + Vite
-
-Esta plantilla proporciona una configuración mínima para hacer funcionar React en Vite con HMR y algunas reglas de ESLint.
-
-Actualmente, hay dos plugins oficiales disponibles:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) usa [Babel](https://babeljs.io/) para Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) usa [SWC](https://swc.rs/) para Fast Refresh
-
-## Ampliación de la configuración de ESLint
-
-Si estás desarrollando una aplicación para producción, recomendamos usar TypeScript y habilitar reglas de lint con reconocimiento de tipos. Consulta la [plantilla TS](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) para integrar TypeScript y [`typescript-eslint`](https://typescript-eslint.io) en tu proyecto.
